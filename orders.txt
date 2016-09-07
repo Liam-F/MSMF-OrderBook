@@ -1,0 +1,7 @@
+ABC B limit 9000 29.72  
+ABC S limit 3000 30.01  
+ABC B limit 2900 30.24  
+ABC S market 20000 31.00  
+ABC B limit 2200   28.98  
+
+	
